@@ -66,3 +66,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+### `npm run storybook`
+
+Starts Storybook, a user interface development environment and playground for UI components that enables developers to create components independently and showcase components interactively in an isolated development environment.
