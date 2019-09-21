@@ -20,3 +20,9 @@
 .App-link {
   color: #09d3ac;
 }
+
+/* This is total randdom to make it not look horrible - please update! */
+.Court {
+    margin: 5em;
+    text-align: left;
+}
