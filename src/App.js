@@ -6,7 +6,7 @@ import Court from './Court.js';
 function App() {
   return (
     <div className="App">
-      <Court />
+      <Court court="maricopa"/>
       {/*
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
